@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "down": "rarespawns-plushies-mod:block/sewing_table_bottom",
+    "up": "rarespawns-plushies-mod:block/sewing_table_top",
+    "north": "rarespawns-plushies-mod:block/sewing_table_side1",
+    "west": "rarespawns-plushies-mod:block/sewing_table_side2",
+    "south": "rarespawns-plushies-mod:block/sewing_table_side3",
+    "east": "rarespawns-plushies-mod:block/sewing_table_side3",
+    "particle": "rarespawns-plushies-mod:block/sewing_table_side1"
+  }
+}
